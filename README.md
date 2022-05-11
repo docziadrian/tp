@@ -1,2 +1,2 @@
 # programozas
-https://torokpeter7.github.io/programozas/
+https://docziadrian.github.io/tp/
