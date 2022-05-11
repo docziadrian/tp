@@ -1,0 +1,284 @@
+.menu{
+    position: fixed;
+    overflow: hidden;
+    background: black;
+    color: #fff;
+    transition: all 0.3s;
+    z-index: 999;
+    width: auto;
+    text-align: left;
+    margin: -8px;
+    margin-top: 22px;
+    width: 2000px;
+}
+
+.ures{
+    background-image: url(https://github.com/torokpeter7/programozas/blob/main/photo/laptop-2434393.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 100%;
+}
+a:link {
+    color: black;
+}
+  
+a:visited {
+    color:black;
+}
+
+
+/*menu bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+li a:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+/*menu bar*/
+
+/*Bemutatkozás*/
+.bemutatkozas{
+    height: 1000px;
+    background-image: url(https://github.com/torokpeter7/programozas/blob/main/photo/laptop-2434393.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 80%;
+    margin-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-top: -30px;
+    padding-top: 100px;
+}
+
+#idezet{
+<<<<<<< HEAD
+    color: red;
+=======
+    color: black;
+>>>>>>> 571c476d9c49b0ee4596a929ff7d99caa96ad6cf
+    font-size: 20px;
+}
+/*Bemutatkozás*/
+
+/*Szolgáltatás*/
+.szolgaltatasok{
+    margin-top: -40px;
+    text-align: center;
+    margin-bottom: 150px;
+    
+}
+#szolgaltatasok{
+    font-size: 150%;
+    color: black;
+    height: 1000px;
+    padding-top: 50px;
+    background-image: url(https://github.com/torokpeter7/programozas/blob/main/photo/laptop-2434393.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 100%;
+}
+#szolgcim{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+/*Szolgáltatás*/
+
+/*Kapcsolat*/
+
+.kapcsolat{
+    padding-top: 50px;
+    margin-top: -35px;
+    height: 1000px;
+    background-image: url(https://github.com/torokpeter7/programozas/blob/main/photo/laptop-2434393.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+    background-color:rgb(147, 147, 147) ;
+    line-height: 25px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#uzenetbox{
+    width: 300px;
+    height: 100px;
+    text-align: top;
+}
+
+#button{
+    width: 150px;
+    height: 40px;
+}
+
+#kapcsfev {
+    color: darkred;
+}
+/*Kapcsolat*/
+
+/*ÁSZF*/
+.aszf{
+    padding-top: 50px;
+    margin-top: -35px;
+    height: 1000px;
+    background-image: url(https://github.com/torokpeter7/programozas/blob/main/photo/laptop-2434393.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(147, 147, 147);
+    color: black;
+    line-height: 25px;
+<<<<<<< HEAD
+    font-size: 20px;
+=======
+    width: 900px;
+    font-size: 15px;
+>>>>>>> 571c476d9c49b0ee4596a929ff7d99caa96ad6cf
+}
+
+.aszf a:link{
+    color: white;
+}
+
+.aszf a:visited{
+    color: white;
+}
+/*ÁSZF*/
+
+#kft{
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    text-decoration: none;
+    font-size: 45px;
+    color: blue;
+}
+
+table{
+    background-color: gray;
+    opacity: 80%;
+}
+
+th{
+    color: black;
+    background-color: gray;
+    opacity: 100%;
+}
+/*Referenciák*/
+.referenciak{
+    margin-top: -150px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1000px;
+    background-image: url(https://github.com/torokpeter7/programozas/blob/main/photo/laptop-2434393.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: left;
+    opacity: 80%;
+}
+#refcim{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+#tablazatfejlec{
+    color: black;
+}
+.tabel {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border:1px solid #C0C0C0;
+    border-collapse:collapse;
+    color: #F0F0F0;
+    padding:5px;
+    position: center;
+}
+.tabel th {
+    border:1px solid #C0C0C0;
+    padding:5px;
+    background:#F0F0F0;
+}
+.tabel td {
+    border:1px solid #C0C0C0;
+    padding:5px;
+}
+#osszeg{
+    color: red;
+}
+/*Referenciák*/
+
+#peti{
+    margin-bottom: -5px;
+}
+
+#app {
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+
+#app > span {
+    padding: 30px;
+  }
+  
+  #app > span:hover {
+    cursor: pointer;
+  }
+  
+  #theImage {
+    display: flex;
+    flex-flow: row wrap;
+    height: 400px;
+    width: 400px;
+    background-repeat: none;
+  }
+  
+  #buttons {
+    position: absolute;
+    bottom: 20px;
+  }
