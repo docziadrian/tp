@@ -76,11 +76,8 @@ li a:hover {
 }
 
 #idezet{
-<<<<<<< HEAD
     color: red;
-=======
     color: black;
->>>>>>> 571c476d9c49b0ee4596a929ff7d99caa96ad6cf
     font-size: 20px;
 }
 /*Bemutatkozás*/
@@ -169,12 +166,9 @@ li a:hover {
     background-color: rgb(147, 147, 147);
     color: black;
     line-height: 25px;
-<<<<<<< HEAD
     font-size: 20px;
-=======
     width: 900px;
     font-size: 15px;
->>>>>>> 571c476d9c49b0ee4596a929ff7d99caa96ad6cf
 }
 
 .aszf a:link{
